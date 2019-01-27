@@ -2,6 +2,7 @@ img {
   width: 100%;
   height: auto;
   float: left;
+  padding: 3px;
 }
 
 body {
@@ -11,9 +12,12 @@ body {
 .jumbotron {
   background-color: white;
   border: 2px solid #E780B6;
-  margin: 10px;
 }
 
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 .jumbotron p {
   color: #6DB8A2;
 }
