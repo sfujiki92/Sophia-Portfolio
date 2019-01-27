@@ -1,7 +1,7 @@
 img {
   width: 100%;
   height: auto;
-  padding: 5px;
+  float: left;
 }
 
 body {
@@ -14,8 +14,20 @@ body {
   margin: 10px;
 }
 
+.jumbotron p {
+  color: #6DB8A2;
+}
+
+.row {
+  margin-top: 30px;
+}
+
 .language {
-  color: #E780B6;
+  color: #6DB8A2;
+}
+
+h2 {
+  font-size: 20px;
 }
 
 .about p {
@@ -28,8 +40,19 @@ li {
 }
 
 .about li {
-  font-size: 15px;
+  font-size: 12px;
   color: #E780B6;
   font-style: italic;
   margin: auto;
+}
+
+.col-md-6 img {
+  width: 60px;
+  height: 55px;
+  float: left;
+  padding: 4px;
+}
+
+.col-md-6 p {
+  padding-left: 60px;
 }
