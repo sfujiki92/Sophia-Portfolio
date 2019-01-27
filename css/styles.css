@@ -2,7 +2,6 @@ img {
   width: 100%;
   height: auto;
   padding: 5px;
-  float: right;
 }
 
 body {
@@ -11,10 +10,26 @@ body {
 
 .jumbotron {
   background-color: white;
-  border: 2px solid pink;
+  border: 2px solid #E780B6;
   margin: 10px;
+}
+
+.language {
+  color: #E780B6;
 }
 
 .about p {
   font-style: italic;
+}
+
+li {
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.about li {
+  font-size: 15px;
+  color: #E780B6;
+  font-style: italic;
+  margin: auto;
 }
