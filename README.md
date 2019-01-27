@@ -29,4 +29,4 @@ _BootStrap_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2015 **_Sophia Fujiki_**
+Copyright (c) 2019 **_Sophia Fujiki_**
